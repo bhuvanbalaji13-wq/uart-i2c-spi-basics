@@ -54,3 +54,5 @@ This repository demonstrates basic communication protocols used in embedded syst
 
 ## Status
 Basic conceptual and implementation-level understanding of communication protocols
+## Diagrams
+![Diagram](Screenshot 2026-05-05 002701.png,Screenshot 2026-05-05 002736.png,Screenshot 2026-05-05 002801.png)
